@@ -1,0 +1,14 @@
+package com.springdatajpa.springdatajpa;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringdatajpaApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
